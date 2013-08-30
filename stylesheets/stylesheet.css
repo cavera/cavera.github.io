@@ -281,11 +281,11 @@ Full-Width Styles
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #fff;
-  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  background: url('../images/blacktocat.png') #4abaaa no-repeat 95% 50%;
   font-weight: 700;
-  box-shadow: 0 0 10px rgba(0,0,0,.5);
-  border-bottom-left-radius: 2px;
-  border-bottom-right-radius: 2px;
+  box-shadow: 0 2px 4px rgba(0,0,0,.5);
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
 }
 
 #header_wrap {
